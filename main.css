@@ -14,7 +14,7 @@ span {
     animation-name: appear;
     animation-duration: 2s;
     animation-timing-function: ease;
-    animation-fill-mode: backwards;
+    animation-fill-mode: both;
 }
 
 img {
@@ -24,7 +24,7 @@ img {
     animation-name: appear;
     animation-duration: 2s;
     animation-timing-function: ease;
-    animation-fill-mode: backwards;
+    animation-fill-mode: both;
 }
 
 span:nth-child(2){
